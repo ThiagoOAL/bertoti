@@ -31,12 +31,7 @@
     <img src="imagens/2-positivo.png" width="3000">
     <br>
   </details>
-  
-  <details>
-  <summary> Exemplo Negativo </summary>
 
-    Conteudo....
-  </details>
 
 </details>
 
@@ -51,11 +46,6 @@
     <br>
   </details>
   
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
-  </details>
 
 </details>
 
@@ -69,12 +59,6 @@
     <img src="imagens/4-positivo.png" width="3000">
     <br>
     
-  </details>
-  
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
   </details>
 
 </details>
@@ -90,11 +74,6 @@
     <br>
   </details>
   
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
-  </details>
 
 </details>
 
@@ -109,11 +88,6 @@
     <br>
   </details>
   
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
-  </details>
 
 </details>
 
@@ -127,12 +101,7 @@
     <img src="imagens/7-positivo.png" width="3000">
     <br>
   </details>
-  
-  <details>
-  <summary> Exemplo Negativo </summary>
 
-    Conteudo....
-  </details>
 
 </details>
 
@@ -167,11 +136,6 @@
     <br>
   </details>
   
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
-  </details>
 
 </details>
 
@@ -186,10 +150,5 @@
     <br>
   </details>
   
-  <details>
-  <summary> Exemplo Negativo </summary>
-
-    Conteudo....
-  </details>
 
 </details>
