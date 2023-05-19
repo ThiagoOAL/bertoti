@@ -1,2 +1,2 @@
 # bertoti
-Repositório destinado para as atividades do professor Giuliano Bertoti
+Repositório destinado à disciplina Interação Humano Computador, do curso de Desenvolvimento de Software multiplataforma da FATEC-SJC, ministrada pelo professor Giuliano Bertoti.
